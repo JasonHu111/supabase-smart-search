@@ -6,7 +6,7 @@
 
 ### 使用AI模型给数据进行向量赋予，在模糊搜索和同义词联想词方面表达良好
 
-![演示](supabase-search/preview.gif)
+![演示](supabase-search/preview.png)
 
 ## 技术栈
 
