@@ -1,0 +1,9 @@
+[general]
+# 用户需要修改为自己的项目 ID
+project_id = "你的项目id"
+
+[functions.generate-embedding]
+verify_jwt = false
+
+[functions.search]
+verify_jwt = false
